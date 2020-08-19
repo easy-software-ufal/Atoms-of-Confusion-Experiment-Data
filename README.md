@@ -12,7 +12,3 @@
 ### Project used to generate the heatmaps:
 
 [https://github.com/easy-software-ufal/PyGazeAnalyser/tree/feature/atoms_of_confusion/examples/atoms_of_confusion](https://github.com/easy-software-ufal/PyGazeAnalyser/tree/feature/atoms_of_confusion/examples/atoms_of_confusion)
-
-### Statistical Analysis:
-
-[git@github.com:easy-software-ufal/Atoms-of-Confusion-Experiment-Analysis.git](git@github.com:easy-software-ufal/Atoms-of-Confusion-Experiment-Analysis.git)
